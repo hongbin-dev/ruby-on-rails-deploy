@@ -1,0 +1,3 @@
+[submodule "rails-sample"]
+	path = rails-sample
+	url = https://github.com/khb1109/rails-sample
