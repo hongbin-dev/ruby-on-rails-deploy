@@ -5,6 +5,6 @@ services:
     - "3000:3000"
     image: "khb1109/ubuntu-ruby233"
     volumes: 
-      - "./rails-env:/root/app"
+      - "~/rails-practice:/root/app"
     tty: true
 
